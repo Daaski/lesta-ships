@@ -1,0 +1,9 @@
+@import "scss/utils";
+
+.filters_wrapper {
+  width: calc(100% - 30px);
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 30px;
+}

@@ -1,0 +1,8 @@
+
+query GetVehicleTypes {
+    vehicleTypes {
+        name
+        title
+        titleShort
+    }
+}
